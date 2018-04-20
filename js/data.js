@@ -56,9 +56,9 @@ var initialSpaces = [
   "res_id": "18450874"
 },
 {
-  "name": "Moonlight Adda",
-  "location": {"lat": 28.4611250000, "lng": 77.0792220000},
-  "res_id": "18618271",
+  "name": "Rajesh Khanna",
+  "location": {"lat": 28.5928902872, "lng": 77.1789215505},
+  "res_id": "305296",
   "shortUrl": "https://b.zmtcdn.com/data/reviews_photos/18b/9376e26af795a44fa5a2d40df47cb18b_1513348983.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A"
 },
 {
